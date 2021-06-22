@@ -1,0 +1,60 @@
+.body{
+	position: absolute;
+	width: auto;
+	height: auto;
+	background-image: url(https://user-images.githubusercontent.com/79810886/122105404-5dab5f00-ce36-11eb-8125-745e72f1743c.png);
+	background-size: cover;
+	-webkit-filter: blur(4px);
+}
+
+.button1 {
+
+    background-color:  #3b6ecc;
+    border: none;
+    color: white;
+    margin-top: 10px;
+    margin-bottom:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transform: translateY(4px);
+    padding: 8px 8px;
+    border-radius: 8px;
+    
+}
+.button1:hover {background-color: #072253}
+
+div .button1 {
+    margin-bottom:20px;
+
+}
+.button2 {
+
+    background-color:  #3b6ecc;
+    border: none;
+    color: white;
+    margin-bottom:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transform: translateY(4px);
+    padding: 8px 8px;
+    border-radius: 8px;
+    
+}
+.button2:hover {background-color: #072253}
+
+div .button2 {
+    margin-bottom:20px;
+
+}
+
+.h3{
+    color: black;
+}
